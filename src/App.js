@@ -9,6 +9,11 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <div>
+          <h3>
+            Hello Amplify Frond And Backend Deployment
+          </h3>
+        </div>
         <a
           className="App-link"
           href="https://reactjs.org"
